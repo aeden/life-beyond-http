@@ -7,3 +7,4 @@ gem 'blather'#, :git => 'git://github.com/sprsquish/blather.git'    # XMPP
 gem 'onstomp'#, :git => 'git://github.com/meadvillerb/onstomp.git'  # STOMP
 gem 'spdy'#, :git => 'git://github.com/igrigorik/spdy.git'          # SPDY
 gem 'cinch'#, :git => 'git://github.com/cinchrb/cinch.git'          # IRC
+gem 'net-ping'#
