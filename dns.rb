@@ -15,6 +15,6 @@ pairs.each do |pair|
   name, type = pair.split(/:/)
   packet = resolver.query(name, type)
   pp packet
+
+  puts packet.header.format
 end
-
-

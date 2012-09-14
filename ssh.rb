@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'net/ssh'
 
 Net::SSH.start('test.dnsimple.com', 'aeden') do |ssh|
